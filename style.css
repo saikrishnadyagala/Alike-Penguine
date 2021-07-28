@@ -1,0 +1,20 @@
+body{
+  background-color: aqua;
+}
+.sqr{
+  width: 0;
+  height: 0;
+  margin: 200px 150px 0 450px;
+  border: 150px solid black;
+  padding: 15px 15px;
+  border-radius: 60px 60px 0 0;
+  
+}
+.tri{
+  width: 0;
+  height: 0;
+  margin: 150px auto -400px 750px;
+  border: 75px solid transparent;
+  border-left:150px solid yellow;
+  
+}
