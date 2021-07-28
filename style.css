@@ -6,7 +6,7 @@ body{
   height: 0;
   margin: 200px 150px 0 450px;
   border: 150px solid black;
-  padding: 15px 15px;
+  
   border-radius: 60px 60px 0 0;
   
 }
@@ -17,4 +17,11 @@ body{
   border: 75px solid transparent;
   border-left:150px solid yellow;
   
+}
+.ss{
+
+  width:0;
+  height:0;
+  margin:-180px auto auto 600px;
+  border:15px solid white;
 }
